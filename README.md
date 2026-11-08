@@ -183,7 +183,6 @@ analysis_education_war/
 │   └── (вихідний файл Держстату, DF_EDUCATIONAL_INSTITUTIONS)
 └── sql/
     └── select_data.sql                        # скрипт відбору даних
-```
 Стовпці `education_zaporizka_ukraine.csv`: `Територіальний розріз`, `Показник`, `Категорія розрізу`, `Розріз`, `Рік`, `Значення`.
 ---
 Використані матеріали
