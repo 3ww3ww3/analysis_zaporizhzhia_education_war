@@ -13,7 +13,7 @@
 ---
 
 ## 📊 Інтерактивний дашборд
-[👉 Переглянути інтерактивний дашборд на Tableau Public](СЮДИ_ВСТАВТЕ_ПОСИЛАННЯ_НА_ТАБЛЛО)
+[👉 [https://public.tableau.com/views/_17941695242390/sheet9?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)]
 
 <p align="center">
   <img src="images/dashboard.png" alt="Загальний вигляд дашборду" width="100%">
