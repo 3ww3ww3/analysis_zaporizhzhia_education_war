@@ -168,21 +168,22 @@
 
 ---
 
-Структура папки
-```
-analysis_education_war/
+## Структура папки
+
+```text
+analysis_zaporizhzhia_education_war/
 ├── README.md                                  # цей файл
 ├── images/                                    # графіки з Tableau
-│   ├── 01_dynamika_uchniv.png
-│   ├── 02_osvitni_nozhytsi.png
-│   ├── 03_balans_1_11.png
-│   ├── 04_navantazhennia_na_vchytelia.png
+│   ├── dashboard.png
+│   ├── 01_zagalna_dynamika_uchniv.png
+│   ├── 02_osvitni_nozhytzi.png
+│   ├── 03_navantazhennya_na_vchytelya.png
+│   ├── 04_balans_1_11.png
 │   └── 05_scenariy_1klas.png
 ├── data/
-│   ├── education_zaporizka_ukraine.csv        # підготовлена вибірка (рік у рядках)
-│   └── (вихідний файл Держстату, DF_EDUCATIONAL_INSTITUTIONS)
+│   └── zaporizhzhia_edu.csv                  # підготовлена вибірка
 └── sql/
-    └── select_data.sql                        # скрипт відбору даних
+    └── zaporizhzhia_edu.sql                  # скрипт відбору даних
 
 Стовпці `education_zaporizka_ukraine.csv`: `Територіальний розріз`, `Показник`, `Категорія розрізу`, `Розріз`, `Рік`, `Значення`.
 ---
