@@ -184,8 +184,8 @@ analysis_zaporizhzhia_education_war/
 │   └── zaporizhzhia_edu.csv                  # підготовлена вибірка
 └── sql/
     └── zaporizhzhia_edu.sql                  # скрипт відбору даних
+```
 
-Стовпці `education_zaporizka_ukraine.csv`: `Територіальний розріз`, `Показник`, `Категорія розрізу`, `Розріз`, `Рік`, `Значення`.
 ---
 
 ## Використані матеріали
